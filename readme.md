@@ -1,8 +1,8 @@
 <h2 align="left">Hi, I'm Kotla Madhu</h2>
 
 <p align="left">
-Web Developer focused on building clean, scalable web apps and APIs.<br/>
-I work across backend + frontend, and I’m currently exploring Spring AI and modern React tooling.
+Web Developer focused on building scalable web apps and clean APIs.<br/>
+I build with Spring Boot + React and I’m exploring Spring AI and modern frontend tooling.
 </p>
 
 <div align="center">
@@ -20,15 +20,10 @@ I work across backend + frontend, and I’m currently exploring Spring AI and mo
 
 ---
 
-### What I’m working on
-- Building full-stack apps with Spring Boot + React.
-- Designing clean REST APIs (OpenAPI/Swagger) and secure auth (JWT).
-- Improving deployment workflows (Docker + Nginx + Render/Netlify).
-
-### Featured projects
-- Project 1: https://github.com/Nih-0/REPO_NAME — One-line impact statement (what it does + who it helps).
-- Project 2: https://github.com/Nih-0/REPO_NAME — Tech used + key feature.
-- Project 3: https://github.com/Nih-0/REPO_NAME — Demo link + what you learned.
+### What I do
+- Build REST APIs and backend services with Spring Boot (Hibernate, JWT, Swagger/OpenAPI).
+- Create responsive UIs with React, TypeScript, TailwindCSS, and modern tooling.
+- Deploy apps with Docker + Nginx on Render/Netlify/Vultr.
 
 ---
 
