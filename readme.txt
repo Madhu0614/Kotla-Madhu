@@ -90,14 +90,7 @@
 
 ###
 
-<p align="left">
-  <h3>🚀 Featured Projects</h3><br>
-  <ul>
-    <li><a href="https://github.com/Nih-0/InsightIQ_Backend" target="_blank">Insight_IQ( AI Interview Analyzer )</a></li>
-    <li><a href="https://github.com/Nih-0/Ticket_Trade_BackEnd" target="_blank">TicktTrade</a></li>
-    <li><a href="https://github.com/Nih-0/CvXpert" target="_blank">CvXpert</a></li>
-  </ul>
-</p>
+
 
 ###
 
@@ -108,4 +101,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Vashu2003/Vashu2003/blob/output/github-snake.svg" />
   <img alt="GitHub Snake Animation" src="https://github.com/Vashu2003/Vashu2003/blob/output/ocean.gif" />
 </picture>
+
 
